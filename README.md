@@ -1,6 +1,7 @@
-## Olá, sejam bem vindos! 👋
+## Anderson Andrade 👋
+###### *Cientista de Dados em Formação.*
 
-Meu nome é Anderson Henrique de Souza Andrade, sou formado em Matemática Industrial e tenho MBA em Big Data e Inteligência Competitiva. Meu maior foco prossional é fazer uma migração completa para atuação na área de dados, com foco em ciência de dados.
+Sou formado em Matemática Industrial e tenho MBA em Big Data e Inteligência Competitiva. Meu maior foco prossional é fazer uma migração completa para atuação na área de dados, com foco em ciência de dados.
 
 Atualmente trabalho CLT na Solar Coca-Cola como Analista de Inteligência de Mercado e já tive experiência com Pricing, Qualidade (análise de dados industriais) e Logística. Como PJ atendo uma startup (Simbora Delivery) como desenvolvedor de um produto de roteirização e analista de dados. 
 
