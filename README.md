@@ -5,7 +5,7 @@ Meu nome é Anderson Henrique de Souza Andrade, sou formado em Matemática Indus
 Atualmente trabalho CLT na Solar Coca-Cola como Analista de Inteligência de Mercado e já tive experiência com Pricing, Qualidade (análise de dados industriais) e Logística. Como PJ atendo uma startup (Simbora Delivery) como desenvolvedor de um produto de roteirização e analista de dados. 
 
 ### Skills
-#### • Análise/Ciência de Dados
+#### • Análise de Dados
 ![Python](https://img.shields.io/badge/Python-3376AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
