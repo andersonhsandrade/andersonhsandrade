@@ -45,7 +45,7 @@ Atualmente trabalho CLT na Solar Coca-Cola como Analista de Inteligência de Mer
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonhsandrade&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Repositórios Importantes
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andersonhsandrade&repo=projetos-data-science-analytics&theme=tokyonight)](https://www.linkedin.com/in/andersonhsandrade/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andersonhsandrade&repo=data-science-dota-2&theme=tokyonight)](https://github.com/andersonhsandrade/data-science-dota-2)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andersonhsandrade&repo=projetos-data-science&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
