@@ -13,6 +13,10 @@ Atualmente trabalho como Analista de Dados na meutudo. e já tive experiência c
 #### • Visualização de Dados
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Tableau](https://img.shields.io/badge/TABLEAU-2C2D72?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/POWERBI-2C2D72?style=for-the-badge&logo=Power%20BI&logoColor=white)
+
+
 #### • Cloud
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 #### • BD
