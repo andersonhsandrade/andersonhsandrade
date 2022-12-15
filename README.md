@@ -3,7 +3,7 @@
 
 Sou formado em Matemática Industrial e tenho MBA em Big Data e Inteligência Competitiva. Meu maior foco prossional é fazer uma migração completa para atuação na área de dados, com foco em ciência de dados.
 
-Atualmente trabalho CLT na Solar Coca-Cola como Analista de Inteligência de Mercado e já tive experiência com Pricing, Qualidade (análise de dados industriais) e Logística. Como PJ atendo uma startup (Simbora Delivery) como desenvolvedor de um produto de roteirização e analista de dados. 
+Atualmente trabalho como Analista de Dados na meutudo. e já tive experiência com Inteligência de Mercado, Pricing, Qualidade (análise de dados industriais) e Logística. Também tenho projetos com a Argo Tech como desenvolvedor django e analista de dados. 
 
 ### Skills
 #### • Análise de Dados
